@@ -3,6 +3,7 @@ module github.com/mhayk/GO-Expert-temp-by-cep-otel
 go 1.22.5
 
 require (
+	github.com/go-chi/chi v1.5.5
 	github.com/go-chi/chi/v5 v5.1.0
 	github.com/prometheus/client_golang v1.20.4
 	github.com/spf13/viper v1.19.0
