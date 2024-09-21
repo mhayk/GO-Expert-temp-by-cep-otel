@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/go-chi/chi"
+	"github.com/go-chi/chi/v5"
 	"github.com/mhayk/GO-Expert-temp-by-cep-otel/configs"
 	"github.com/mhayk/GO-Expert-temp-by-cep-otel/orchestrator-api/internal/entity"
 	"github.com/mhayk/GO-Expert-temp-by-cep-otel/orchestrator-api/internal/infra/repo"
